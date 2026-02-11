@@ -1,0 +1,16 @@
+{
+  "company_name": "MOHAN FOOTWEAR",
+  "office_address": "126/149, Hindustan Chowk, Mulund Colony, Mulund West, Mumbai-400082",
+  "gstin": "27AA... (PUT YOUR GSTIN)",
+  "udyog_aadhar": "MH... (PUT YOUR UDYOG AADHAR)",
+  "email": "mohanfootwear77@gmail.com",
+  "phones": ["9999999999", "0000000000"],
+  "state_code": "27",
+  "bank_name": "UNION BANK OF INDIA (0845) MULUND BRANCH",
+  "bank_address": "MG ROAD MULUND WEST, MUMBAI - 400080",
+  "account_no": "084511100003068",
+  "account_name": "MOHAN FOOTWEAR",
+  "ifsc": "UBIN0S08458",
+  "default_cgst_rate": 0.06,
+  "default_sgst_rate": 0.06
+}
